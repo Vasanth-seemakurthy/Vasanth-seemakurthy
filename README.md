@@ -22,4 +22,5 @@
   </tr>
 </table>
 
-![](https://leetcard.jacoblin.cool/iamhuman?ext=heatmap)
+<img src="https://leetcard.jacoblin.cool/iamhuman?theme=dark" alt="LeetCode Card" name="Vasanth" style="width: 1500px; height: 500px;" />
+
