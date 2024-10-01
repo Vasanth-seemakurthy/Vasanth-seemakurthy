@@ -25,7 +25,6 @@
 <img src="https://holopin.me/vasanthseemakurthy"/>
 </br>
 <img src="https://leetcard.jacoblin.cool/iamhuman?theme=dark" alt="LeetCode Card" name="Vasanth" style="width: 1500px; height: 500px;" />
-</br>
 <h2>Languages & Tools</h2>
 <p>
   <table>
@@ -60,4 +59,10 @@
     </tr>
   </table>
 </p>
+<!-- <p><strong>My Top Programming Languages:</strong></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vasanthseemakurthy&show_icons=true&locale=en&layout=compact" alt="vasanthseemakurthy" /></p>-->
+
+<!--<p><strong>My GitHub Stats:</strong></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vasanthseemakurthy&show_icons=true&locale=en" alt="vasanthseemakurthy" /></p> -->
+
 
