@@ -17,7 +17,7 @@
       </p>
     </td>
     <td>
-      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExang1c2xoMndod2hpc3Rlb2V4OGgzN2R3YjVnaHptNTBpNWducHN4dyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/cifhkeoAHXgLGAKxGb/giphy.gif" alt="GIF" style="width: 350px; height: auto; border-radius: 15px;" />
+      <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXMzZ3gyMno3dHp5NnJtandjN3Zjb2ZvMTNnMmRhcms1dXBiZTFnZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iCWVYWO2S3Qnn6jx3S/giphy.gif" alt="GIF" style="width: 350px; height: auto; border-radius: 15px;" />
     </td>
   </tr>
 </table>
